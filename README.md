@@ -9,6 +9,7 @@
 
 ## Key Vocab
 
+
 - **Web scraping**: Web scraping, web harvesting, or web data extraction is
  data scraping used for extracting data from websites.
 - **HTML**: The HyperText Markup Language or HTML is the standard markup
